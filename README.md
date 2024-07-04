@@ -1,4 +1,18 @@
-https://github.com/user38529/my_telegram_app/assets/174655285/aea42bd8-40ed-4497-a38a-499d96be142f
+# Pizza Palace Web App
 
+Welcome to Pizza Palace Web App! This app allows users to interact with our pizza ordering system directly from within Telegram using Telegram Mini Apps (TMA).
 
-Welcome to Pizza Palace
+## Getting Started
+
+To get started with the Pizza Palace Web App, follow these steps:
+
+### Prerequisites
+
+Ensure you have Node.js installed on your machine. You can download it from [nodejs.org](https://nodejs.org/).
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/user38529/pizza-palace-web-app.git
+   cd pizza-palace-web-app
